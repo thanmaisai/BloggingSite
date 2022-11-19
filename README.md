@@ -1,7 +1,7 @@
 # [BloggingSite](https://pacific-beach-23367.herokuapp.com/) 📝
 An Bloging site where you can show case your creative blogs
 built on ejs for templating the frontent html and styling with css 
-and backend stach includes node.js express.js 
+and backend stack includes node.js express.js 
 
 ## To write a post 
 ```\compose``` in the url section from the home page  to redirest to post page
